@@ -1,0 +1,57 @@
+.about-body{
+    /* background-color: peachpuff; */
+    display: flex;
+    width: 100%;
+    gap: 30px;  
+    background-color: rgba(211, 84, 0, 0.09);
+}
+.about-hello{
+   background-color: lightgray;
+   width: 750px;
+   height: 450px;
+   margin-top: 45px;
+   margin-bottom: 50px;
+   border-radius: 20px;
+   margin-left: 55px;
+}
+.about-context {
+    margin-top: 30px;
+    width: 500px;
+}
+.about-h2{
+font-size: 20px;
+    color: black;
+}
+.about-h3{
+    font-size: 45px;
+        gap: 0;
+        text-align: left;
+        color: gray;
+        margin-top: -5px;
+        text-transform: capitalize;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.agency{
+    font-size: 20px;
+        text-transform: capitalize;
+        text-align: left;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: lighter;
+      margin-top: -20px;
+}
+.stats-container{
+    display: flex;
+    gap: 60px;
+}
+.stat-number{
+    color: orangered;
+        font-size: 35px;
+       font-weight: bolder;
+        width: 50px;
+        text-align: center;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .stat-label{
+        text-align: center;
+    }
