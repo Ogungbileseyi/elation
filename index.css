@@ -13,7 +13,9 @@
   left: 0;
   right: 0;
 }
-
+a{
+  text-decoration: none;
+}
 .ul-list {
   display: flex;
   justify-content: space-between;
@@ -21,6 +23,7 @@
   list-style: none;
   font-size: 30px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  
 }
 button {
   border-radius: 50px;
